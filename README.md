@@ -29,11 +29,11 @@ I am a first-year B.Tech student specializing in **Artificial Intelligence & Dat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true" alt="Sanyam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamtyagi229&show_icons=true&theme=radical&include_all_commits=true" alt="Sanyam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamtyagi229&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
